@@ -7,14 +7,12 @@
 - ✍️ [My Github Blog](https://github.com/Jacky-Summer/personal-blog)
 - ✨ My open source: [monki-ui](https://github.com/Jacky-Summer/monki-ui), [Next.js template](https://github.com/Jacky-Summer/nextjs-ts-antd-redux-storybook-starter)
 - 💬 Ask me about **Web, Frontend Development**
-- 😄 I’m looking for a job as **Frontend Developer（前端开发）** in **Shenzhen**. If you are recruiting, please contact me.
 - 📫 How to reach me:
   - [个人网站](https://jackylin.vercel.app)
   - [掘金 - JackySummer](https://juejin.cn/user/1257497033714477)
   - [公众号 - 前端精神时光屋](https://github.com/Jacky-Summer/personal-blog/raw/master/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6/tencent-account.png)
-  - Email：linxiajie2015@163.com
 
-**Things I code with**
+<!-- **Things I code with**
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +28,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
   <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
-</p>
+</p> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Jacky-Summer&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues) -->
 
