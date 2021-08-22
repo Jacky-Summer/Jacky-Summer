@@ -10,7 +10,6 @@
 - 📫 How to reach me:
   - [个人网站](https://jackylin.vercel.app)
   - [掘金 - JackySummer](https://juejin.cn/user/1257497033714477)
-  - [公众号 - 前端精神时光屋](https://github.com/Jacky-Summer/personal-blog/raw/master/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6/tencent-account.png)
 
 <!-- **Things I code with**
 
