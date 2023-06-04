@@ -6,10 +6,12 @@
 
 - ✍️ [My Github Blog](https://github.com/Jacky-Summer/personal-blog)
 - ✨ My open source: [monki-ui](https://github.com/Jacky-Summer/monki-ui), [Next.js template](https://github.com/Jacky-Summer/nextjs-ts-antd-redux-storybook-starter)
-- 💬 Ask me about **Web, Frontend Development**
+- 💬 Ask me about **React, Web, Frontend Development**
+- 😄 I’m looking for a job as **Frontend Developer（前端开发）** in **Shenzhen**. If you are recruiting, please contact me.
 - 📫 How to reach me:
-  - [个人网站](https://jackylin.vercel.app)
   - [掘金 - JackySummer](https://juejin.cn/user/1257497033714477)
+  - [Segmentfault - JackySummer](https://segmentfault.com/u/jackysummer)
+  - ~~[个人网站](https://jackylin.vercel.app)不再维护~~
 
 <!-- **Things I code with**
 
