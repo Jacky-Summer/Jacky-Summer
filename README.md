@@ -7,7 +7,6 @@
 - ✍️ [My Github Blog](https://github.com/Jacky-Summer/personal-blog)
 - ✨ My open source: [monki-ui](https://github.com/Jacky-Summer/monki-ui), [Next.js template](https://github.com/Jacky-Summer/nextjs-ts-antd-redux-storybook-starter)
 - 💬 Ask me about **React, Web, Frontend Development**
-- 😄 I’m looking for a job as **Frontend Developer（前端开发）** in **Shenzhen**. If you are recruiting, please contact me.
 - 📫 How to reach me:
   - [掘金 - JackySummer](https://juejin.cn/user/1257497033714477)
   - [Segmentfault - JackySummer](https://segmentfault.com/u/jackysummer)
@@ -46,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 I’m looking for a job as **Frontend Developer（前端开发）** in **Shenzhen**. If you are recruiting, please contact me.
 -->
